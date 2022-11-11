@@ -100,7 +100,6 @@ body {
 .meals-list-item{
     border: 5px solid #1a1a1a;
     margin: 10px;
-    min-width: 10rem;
 }
 .meals-list-item h1{
     font-weight: bold;
@@ -119,6 +118,7 @@ body {
     margin-top: -7px;
     color: #4d4d4d;
     padding-left: 10px;
+
 }
 /*===== RECIPE PAGE =====*/
 
